@@ -1,4 +1,4 @@
-# 🔖 AI Chat Bookmarks
+# 🔖 AI Chat Bookmarks Extension
 
 An elegant, platform-agnostic Chrome Extension that eliminates **"Context Window Fatigue"** by letting you manually bookmark, label, color-code, and instantly navigate key milestones in your AI conversations. 
 
